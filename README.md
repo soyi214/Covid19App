@@ -19,3 +19,6 @@ Similar app or website
 https://covid-19-au.com
 https://youtu.be/-pu_mh7SgyI
 https://gisanddata.maps.arcgis.com/apps/dashboards/bda7594740fd40299423467b48e9ecf6
+
+# Demonstration Video of Application
+https://drive.google.com/file/d/1pKdJR6dXG_iNiux6w-HZyXVxhhhU2RfP/view?usp=sharing
